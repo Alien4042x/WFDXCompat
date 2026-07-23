@@ -59,3 +59,9 @@ The build stages the runtime files under
 
 - [Developer guide and source map](docs/architecture.md)
 - [Development provenance](PROVENANCE.md)
+
+## Licensing
+
+WineForge DXCompat uses the GNU Lesser General Public License version 2.1 or
+later (`LGPL-2.1-or-later`). The full license text is provided separately in
+the repository `LICENSE` file.
