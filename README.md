@@ -63,5 +63,4 @@ The build stages the runtime files under
 ## Licensing
 
 WineForge DXCompat uses the GNU Lesser General Public License version 2.1 or
-later (`LGPL-2.1-or-later`). The full license text is provided separately in
-the repository `LICENSE` file.
+later (`LGPL-2.1-or-later`). See the full [license text](LICENSE).
