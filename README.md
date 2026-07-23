@@ -16,12 +16,12 @@ application stalls.
 
 The D3D12 frontend currently provides:
 
-- an NV12 facade backed by `R8` and `RG8` textures;
-- NV12 format and copyable-footprint handling;
-- SRV, copy, legacy barrier, and enhanced barrier translation;
+- an NV12 facade backed by `R8` and `RG8` textures
+- NV12 format and copyable-footprint handling
+- SRV, copy, legacy barrier, and enhanced barrier translation
 - resource lifetime and destruction notification for the verified upload
-  resource contract; and
-- passthrough behavior for unrelated D3D12 calls.
+  resource contract
+- passthrough behavior for unrelated D3D12 calls
 
 ## Runtime files
 
