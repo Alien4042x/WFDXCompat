@@ -1,0 +1,8 @@
+LIBRARY wfdxbackend-d3d12
+EXPORTS
+    D3D12CreateDevice
+    fake_set_native_notifier
+    fake_get_native_registers
+    fake_get_resource_destroyed
+    fake_get_device_destroyed
+    fake_get_resource_queries

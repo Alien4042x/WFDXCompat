@@ -1,0 +1,10 @@
+/build*/
+/dist/
+/stage/
+.DS_Store
+*.dll
+*.exe
+*.lib
+*.pdb
+build/
+lib/wfdxcompat/x86_64-windows/*.dll
